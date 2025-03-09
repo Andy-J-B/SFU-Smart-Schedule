@@ -1,3 +1,5 @@
+# Logic for fetching courses from API
+
 import re, requests, json
 
 # URL for departments in this semester
